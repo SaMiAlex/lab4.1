@@ -1,0 +1,7 @@
+H:\YandexDisk\2035\C#\4\lab4.1\lab4.1\obj\Debug\lab4.1.csproj.AssemblyReference.cache
+H:\YandexDisk\2035\C#\4\lab4.1\lab4.1\obj\Debug\lab4.1.csproj.CoreCompileInputs.cache
+H:\YandexDisk\2035\C#\4\lab4.1\lab4.1\bin\Debug\lab4.1.exe.config
+H:\YandexDisk\2035\C#\4\lab4.1\lab4.1\bin\Debug\lab4.1.exe
+H:\YandexDisk\2035\C#\4\lab4.1\lab4.1\bin\Debug\lab4.1.pdb
+H:\YandexDisk\2035\C#\4\lab4.1\lab4.1\obj\Debug\lab4.1.exe
+H:\YandexDisk\2035\C#\4\lab4.1\lab4.1\obj\Debug\lab4.1.pdb
